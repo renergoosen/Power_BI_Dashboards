@@ -10,6 +10,9 @@ The **Data Jobs Dashboard** was created to help users understand the current lan
 
 - `Data Jobs Dashboard.pbix` – Power BI dashboard file with all visuals, data models, and filters.
 
+## 📸 Dashboard Preview
+![Dashboard Preview](/)
+
 
 ## 📌 Key Features
 
