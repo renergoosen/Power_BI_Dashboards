@@ -12,7 +12,7 @@ The **Data Jobs Dashboard** was created to help users understand the current lan
 
 ## 📸 Dashboard Preview
 ![Dashboard Preview](/Images/project1page1.jpg)
-![Jobs Drill Down Preview](/Images/project 1 page 2.jpg)
+![Jobs Drill Down Preview](/Images/project1page2.jpg)
 
 
 
